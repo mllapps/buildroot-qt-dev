@@ -1,0 +1,1 @@
+modprobe fbtft_device name=pitft rotate=90
